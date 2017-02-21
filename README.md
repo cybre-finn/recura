@@ -1,6 +1,9 @@
 # recura
 Recura is a simple CLI tool for ARP Poisoning in Python. It is using the scapy library.
 ## Getting started
+1. `git clone https://github.com/ikarulus/recura.git`
+2. `cd recura`
+
 ### Requirements
 * python2.7
 * scapy
