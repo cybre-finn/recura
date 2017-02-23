@@ -25,3 +25,7 @@ optional arguments:
                         The gateway's IP
   -f, --forwarding      Enable forwarding to sniff packages
 ```
+
+## Workflow example
+1. `./recura.py -i wlan0 -v 192.168.0.10 -r 192.168.0.1 -f`
+2. Sniff packages via Wireshark or dcpdump on interface wlan0
