@@ -9,7 +9,7 @@ Recura is a simple CLI tool for ARP Poisoning in Python. It is using the scapy l
 * scapy
 
 ### Exec
-`./recury.py`
+`./recura.py`
 
 ## Usage
 ```
